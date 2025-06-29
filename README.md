@@ -1,6 +1,7 @@
 # Explainable AI
 
 This repository contains code implementations for visualizing and interpreting the predictions of convolutional neural networks using three widely adopted Explainable AI (XAI) techniques:
+Colab link: https://colab.research.google.com/drive/11VgEFFw1-M9jmG-iRZJAdbiqEz8QtzH4?usp=sharing
 
 - Grad-CAM (Gradient-weighted Class Activation Mapping)
   
